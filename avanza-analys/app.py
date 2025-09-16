@@ -11,7 +11,8 @@ if ticker:
     # Hämta aktiedata från Yahoo Finance
     stock = yf.Ticker(ticker)
     hist = stock.history(period="1y")
-
+    st.write(hist)
+    
     # Visa aktiedata
     st.subheader(f"Historisk data för {ticker}")
     st.line_chart(hist['Close'])
