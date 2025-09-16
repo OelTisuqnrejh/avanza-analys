@@ -1,8 +1,8 @@
-Namn;Ticker;Antal;Inköpskurs;Sedan köp (kr);Sedan köp (%);Värde;;;;;
-Alphabet Inc Class A;GOOGL;4;188,89 USD;2 019 kr;27,71 %;9 304 kr;;;;;
-ASML HOLDING;ASML.AS;1;640,25 EUR;894 kr;12,48 %;8 057 kr;;;;;
-Berkshire Hathaway Inc Class B;BRK-B;1;486,75 USD;−137 kr;−2,93 %;4 535 kr;;;;;
-Coca-Cola;KO;8;69,58 USD;−393 kr;−7,42 %;4 901 kr;;;;;
-Novo Nordisk B;NOVO-B.CO;12;384,25 DKK;−592 kr;−8,56 %;6 319 kr;;;;;
-NVIDIA;NVDA;5;132,88 USD;1 554 kr;23,84 %;8 073 kr;;;;;
-UnitedHealth Group;UNH;1;306,39 USD;206 kr;7,02 %;3 143 kr;;;;;
+Namn;Ticker;Antal;Inköpskurs;Sedan köp (kr);Sedan köp (%);Värde
+Alphabet Inc Class A;GOOGL;4;188,89 USD;2 019 kr;27,71 %;9 304 kr
+ASML HOLDING;ASML.AS;1;640,25 EUR;894 kr;12,48 %;8 057 kr
+Berkshire Hathaway Inc Class B;BRK-B;1;486,75 USD;−137 kr;−2,93 %;4 535 kr
+Coca-Cola;KO;8;69,58 USD;−393 kr;−7,42 %;4 901 kr
+Novo Nordisk B;NOVO-B.CO;12;384,25 DKK;−592 kr;−8,56 %;6 319 kr
+NVIDIA;NVDA;5;132,88 USD;1 554 kr;23,84 %;8 073 kr
+UnitedHealth Group;UNH;1;306,39 USD;206 kr;7,02 %;3 143 kr
