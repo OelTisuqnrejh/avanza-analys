@@ -8,7 +8,8 @@ st.title("📊 Leos portföljanalys")
 
 # Läs in CSV
 try:
-    portfolj = pd.read_csv("portfolj.csv")
+    portfolj = pd.read_csv("/Users/leohjernquist/Desktop/Python projekt/avanza-analys/portfolj.csv", sep=";")
+    st.write(portfolj.columns)
 except FileNotFoundError:
     st.error("CSV-filen 'portfolj.csv' hittades inte.")
     st.stop()
