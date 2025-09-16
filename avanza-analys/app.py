@@ -5,7 +5,7 @@ import yfinance as yf
 st.title("Leos aktieanalys med Yahoo Finance")
 
 # Ange aktiens ticker-symbol (t.ex. AAPL för Apple):
-ticker = st.text_input("AAPL")
+ticker = st.text_input("Ange aktiens ticker-symbol:")
 
 if ticker:
     # Hämta aktiedata från Yahoo Finance
